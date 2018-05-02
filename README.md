@@ -1,2 +1,2 @@
-# cis238-sql-database-sets
+# cis238-sql
 Intended for DTCC.EDU student use
